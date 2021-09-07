@@ -1,6 +1,6 @@
 ### Code for FUN!
 
-Sophomore at North China University of Technology
+Junior at North China University of Technology
 
 @NCUT-CSCI Founder
 
